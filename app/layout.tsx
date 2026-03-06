@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   title: "Redo",
   description: "Portofolio pribadi Redo, IT Support & Programmer di PT. Citi Plumb",
   icons: {
-    icon: "/favicon.png",
+    icon: "/favicon.svg",
   },
 };
 
